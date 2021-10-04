@@ -1,1 +1,1 @@
-print('hello world')
+print('thanks for using my texture')
